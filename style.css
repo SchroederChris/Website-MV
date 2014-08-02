@@ -1,0 +1,55 @@
+body {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #005da3; /*blau*/
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img { max-width: 100%; }
+
+#logo, #foto  {
+  text-align: center;
+}
+
+#foto {
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+}
+
+.subheader {
+  color: #005da3; /*blau*/
+}
+
+.header {
+  color: #005da3; /*blau*/
+  font-size: x-large;
+  padding-top: 1.5em;
+  padding-left: 2.5em
+}
+
+.content {
+  color: #6a7176; /*grau*/
+  font-size: medium;
+  padding-left: 6em;
+  padding-right: 6em;
+}
+
+#calendar {
+  padding-top: 1em;
+}
+
+.table_content {
+  color: #6a7176; /*grau*/
+  font-size: medium;
+}
+
+#footer  {
+  text-align: center;
+  padding-top: 1.5em;
+}
