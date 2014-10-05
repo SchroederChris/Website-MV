@@ -18,8 +18,20 @@ img { max-width: 100%; }
 }
 
 #foto {
+  padding-top: 1.5em;
   padding-left: 2.5em;
   padding-right: 2.5em;
+}
+
+#nav {
+  padding-top: 1.5em;
+  text-align: center;
+  font-size: x-large;
+  color: #6a7176; /*grau*/
+}
+
+#nav a:hover {
+  text-decoration: none;
 }
 
 .subheader {
