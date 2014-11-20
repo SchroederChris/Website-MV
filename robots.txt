@@ -1,7 +1,3 @@
-#robots.txt für die Domain mv-mettlach.de
-#erzeugt am 20.11.2014
- 
 User-agent: *
 Disallow: /img/
 Disallow: /css/
- 
